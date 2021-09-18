@@ -1,4 +1,4 @@
-# OpenCV-C++-Program-for-Face-Detection
+# OpenCV C++ Program for Face-Detection
 
 
 
